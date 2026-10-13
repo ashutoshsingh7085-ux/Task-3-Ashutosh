@@ -1,0 +1,18 @@
+role,popularity,skills
+Data Scientist,95,python;sql;machine learning;statistics;data analysis;pandas;data visualization;jupyter
+Machine Learning Engineer,90,python;machine learning;deep learning;tensorflow;pytorch;docker;mlops;git
+Data Analyst,85,sql;excel;data analysis;data visualization;tableau;power bi;statistics;python
+Data Engineer,88,python;sql;etl;spark;airflow;kafka;cloud;data modeling
+DevOps Engineer,92,aws;docker;kubernetes;ci/cd;linux;automation;terraform;git;python;bash
+Cloud Architect,80,cloud;aws;azure;networking;security;terraform;kubernetes;automation
+Cloud Engineer,82,cloud;aws;azure;linux;docker;terraform;python;networking
+Site Reliability Engineer,78,linux;kubernetes;automation;python;monitoring;ci/cd;cloud;bash
+Systems Administrator,70,linux;bash;networking;automation;security;monitoring;windows server;scripting
+Backend Developer,93,java;python;sql;apis;spring;docker;git;data structures
+Frontend Developer,91,javascript;html;css;react;typescript;git;ui design;apis
+Full Stack Developer,94,javascript;react;node.js;sql;apis;html;css;git;docker
+Cybersecurity Analyst,76,security;networking;linux;penetration testing;cryptography;python;monitoring;scripting
+NLP Engineer,72,python;nlp;deep learning;pytorch;machine learning;data structures;apis;git
+Mobile Developer,74,kotlin;swift;java;apis;git;ui design;data structures;sql
+QA Automation Engineer,68,python;automation;selenium;ci/cd;git;apis;java;scripting
+Software Engineer,96,algorithms;data structures;java;python;git;sql;apis;c++
